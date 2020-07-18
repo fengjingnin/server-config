@@ -50,7 +50,7 @@
 
     <!--打包的配置-->
     <build>
-        <defaultGoal>compile</defaultGoal>
+        <defaultGoal>package</defaultGoal>
 
         <plugins>
             <plugin>
